@@ -1,5 +1,7 @@
 # build output
 dist/
+!public/assets/itscraft.com/wp-content/themes/craft-2025/dist/
+!public/assets/itscraft.com/wp-content/themes/craft-2025/dist/**
 # generated types
 .astro/
 
